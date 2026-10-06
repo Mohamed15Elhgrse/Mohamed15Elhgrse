@@ -29,6 +29,6 @@ MATLAB, Simulink and Simscape · ROS 2, Gazebo, Isaac Sim, Pinocchio · Python, 
 
 ## Contact
 
-- Email: g202521210@kfupm.edu.sa 
-         mohamedelhgrse15@gmail.com
+- KFUPM email: g202521210@kfupm.edu.sa
+- Personal email: mohamedelhgrse15@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mohamed-elhgrse-114165195/
